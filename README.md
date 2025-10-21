@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python and Web Developer<br>I'm working as an intern in Yuga Yatra Retail
+Python and Web Developer<br>I'm working as an intern in skillcraft technology and furture interns. Former intern at yuga yatra retail opc pvt Ltd.
 
 
 ## 🌐 Socials:
